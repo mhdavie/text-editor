@@ -52,15 +52,17 @@ THEN I should have proper build scripts for a webpack application
 
 * [Github Repository](https://github.com/mhdavie/text-editor)
 
-### Online Use
+### Online
 
-![1](assets/1.png)
-![2](assets/2.png)
-![3](assets/3.png)
+![1](assets/online.png)
 
-### Offline Use
+![2](assets/pwa.png)
 
-![4](assets/4.png)
+![3](assets/pwa2.png)
+
+### Offline 
+
+![4](assets/offline.png)
 
 
 
