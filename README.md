@@ -44,7 +44,13 @@ THEN I should have proper build scripts for a webpack application
 ```
 
 
+## Heroku Deployed Page
 
+* [Text-Editor](https://mhd-text-editor.herokuapp.com/)
+
+## Github Repository
+
+* [Github Repository](https://github.com/mhdavie/text-editor)
 
 ### Online Use
 
@@ -58,4 +64,3 @@ THEN I should have proper build scripts for a webpack application
 
 
 
-## Links
