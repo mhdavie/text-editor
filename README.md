@@ -4,16 +4,6 @@
 
 A Text Editor that meets PWA criteria, functioning on or offline. It showcases knowledge of idb, IndexedDB API, and Heroku.
 
-**Tools & Skills Used**<br>
-IndexedDB API, idb, and Heroku.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-- [Contributing](#contributing)
-- [Links](#links)
-
 
 ## User Story
 
